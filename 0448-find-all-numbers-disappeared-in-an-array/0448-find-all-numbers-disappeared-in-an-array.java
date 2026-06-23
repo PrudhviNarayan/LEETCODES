@@ -3,26 +3,25 @@ class Solution {
         Arrays.sort(nums);
 
         List<Integer> ans = new ArrayList<>();
+        int expected = 1;
 
-        // Missing numbers before first element
-        for (int i = 1; i < nums[0]; i++) {
-            ans.add(i);
-        }
+        for (int i = 0; i < nums.length; i++) {
 
-        for (int i = 0; i < nums.length - 1; i++) {
-
-            if (nums[i] == nums[i + 1]) {
-                continue; // ignore duplicates
+            if (nums[i] < expected) {   // duplicate
+                continue;
             }
 
-            for (int j = nums[i] + 1; j < nums[i + 1]; j++) {
-                ans.add(j);
+            while (expected < nums[i]) {
+                ans.add(expected);
+                expected++;
             }
+
+            expected = nums[i] + 1;
         }
 
-        // Missing numbers after last element
-        for (int i = nums[nums.length - 1] + 1; i <= nums.length; i++) {
-            ans.add(i);
+        while (expected <= nums.length) {
+            ans.add(expected);
+            expected++;
         }
 
         return ans;
