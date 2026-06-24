@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1137-n-th-tribonacci-number) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
