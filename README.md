@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0066-plus-one) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1137-n-th-tribonacci-number) |
