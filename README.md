@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0088-merge-sorted-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
