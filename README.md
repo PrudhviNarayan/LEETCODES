@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0520-detect-capital) |
 | [1189-maximum-number-of-balloons](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1189-maximum-number-of-balloons) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0067-add-binary) |
 | [0338-counting-bits](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
