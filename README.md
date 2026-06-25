@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0520-detect-capital) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0392-is-subsequence](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0067-add-binary) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
