@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0520-detect-capital) |
 | [1189-maximum-number-of-balloons](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1189-maximum-number-of-balloons) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
