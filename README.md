@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0020-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0520-detect-capital) |
 | [1189-maximum-number-of-balloons](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1189-maximum-number-of-balloons) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
