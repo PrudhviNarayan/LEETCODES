@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1137-n-th-tribonacci-number) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
