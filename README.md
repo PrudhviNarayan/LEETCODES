@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0278-first-bad-version) |
 ## Simulation
 |  |
 | ------- |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0088-merge-sorted-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
