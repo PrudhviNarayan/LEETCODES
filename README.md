@@ -102,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0278-first-bad-version) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
