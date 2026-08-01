@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0190-reverse-bits](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0190-reverse-bits) |
 ## Tree
 |  |
 | ------- |
