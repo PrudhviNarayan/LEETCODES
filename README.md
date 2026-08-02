@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1189-maximum-number-of-balloons) |
 ## Counting
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0217-contains-duplicate](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1137-n-th-tribonacci-number) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0278-first-bad-version) |
 ## Simulation
 |  |
@@ -110,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0268-missing-number) |
 ## Interactive
 |  |
 | ------- |
