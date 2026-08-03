@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1137-n-th-tribonacci-number) |
@@ -158,4 +159,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
