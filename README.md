@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1137-n-th-tribonacci-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
