@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1137-n-th-tribonacci-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0010-regular-expression-matching) |
 | [0050-powx-n](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0371-sum-of-two-integers) |
 ## Two Pointers
 |  |
