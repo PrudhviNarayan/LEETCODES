@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0371-sum-of-two-integers) |
+| [0441-arranging-coins](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0441-arranging-coins) |
 ## Simulation
 |  |
 | ------- |
