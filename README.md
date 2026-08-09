@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0877-stone-game) |
 | [3731-find-missing-elements](https://github.com/PrudhviNarayan/LEETCODES/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
@@ -182,10 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -194,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0292-nim-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
