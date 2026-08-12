@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
