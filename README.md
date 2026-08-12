@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0120-triangle) |
 | [0217-contains-duplicate](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0120-triangle) |
 | [0338-counting-bits](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
