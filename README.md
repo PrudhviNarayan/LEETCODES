@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/PrudhviNarayan/LEETCODES/tree/master/2029-stone-game-ix) |
 ## Array
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/PrudhviNarayan/LEETCODES/tree/master/2029-stone-game-ix) |
 | [3731-find-missing-elements](https://github.com/PrudhviNarayan/LEETCODES/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1137-n-th-tribonacci-number) |
+| [2029-stone-game-ix](https://github.com/PrudhviNarayan/LEETCODES/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,15 +197,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/PrudhviNarayan/LEETCODES/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/PrudhviNarayan/LEETCODES/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0292-nim-game) |
+| [2029-stone-game-ix](https://github.com/PrudhviNarayan/LEETCODES/tree/master/2029-stone-game-ix) |
 ## Impartial Game
 |  |
 | ------- |
@@ -211,8 +217,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/PrudhviNarayan/LEETCODES/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0046-permutations) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/PrudhviNarayan/LEETCODES/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
