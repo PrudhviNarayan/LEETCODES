@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0042-trapping-rain-water) |
+| [0145-binary-tree-postorder-traversal](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0145-binary-tree-postorder-traversal) |
 | [0856-score-of-parentheses](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0856-score-of-parentheses) |
 ## Binary Search
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0145-binary-tree-postorder-traversal) |
 ## Brainteaser
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0101-symmetric-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
