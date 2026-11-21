@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/PrudhviNarayan/LEETCODES/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1683-invalid-tweets) |
 | [1965-employees-with-missing-information](https://github.com/PrudhviNarayan/LEETCODES/tree/master/1965-employees-with-missing-information) |
